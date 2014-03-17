@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		ADDA581F18D6C880003B1E10 /* test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		ADDA581418D6C7D8003B1E10 = {
 			isa = PBXGroup;
 			children = (
+				ADDA581F18D6C880003B1E10 /* test.py */,
 			);
 			sourceTree = "<group>";
 		};
@@ -22,7 +27,8 @@
 			buildConfigurationList = ADDA581C18D6C7D8003B1E10 /* Build configuration list for PBXLegacyTarget "python" */;
 			buildPhases = (
 			);
-			buildToolPath = /usr/bin/make;
+			buildToolPath = /Library/Frameworks/Python.framework/Versions/2.7/bin/python;
+			buildWorkingDirectory = "";
 			dependencies = (
 			);
 			name = python;
