@@ -1,1 +1,1 @@
-print "hello"ㅠㅠ
+print 3.14 % 3
