@@ -7,7 +7,15 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		ADA01EFB18E92C9C00D95BB3 /* test10.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test10.py; sourceTree = "<group>"; };
+		ADA01EFC18E93DA700D95BB3 /* test11.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test11.py; sourceTree = "<group>"; };
+		ADA01EFD18E953DE00D95BB3 /* test12.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test12.py; sourceTree = "<group>"; };
+		ADA0543F18E06B2F000C28A7 /* test07.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test07.py; sourceTree = "<group>"; };
+		ADA0544018E06B2F000C28A7 /* test08.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test08.py; sourceTree = "<group>"; };
+		ADA0544118E06B2F000C28A7 /* test09.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test09.py; sourceTree = "<group>"; };
+		ADA0544318E06B2F000C28A7 /* import.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = import.py; sourceTree = "<group>"; };
 		ADA1B70718D6D943000E39E6 /* text05.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = text05.py; sourceTree = "<group>"; };
+		ADA1B70818D6E457000E39E6 /* test06.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test06.py; sourceTree = "<group>"; };
 		ADDA581F18D6C880003B1E10 /* test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
 		ADDA582018D6D10B003B1E10 /* test04.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test04.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -16,9 +24,17 @@
 		ADDA581418D6C7D8003B1E10 = {
 			isa = PBXGroup;
 			children = (
+				ADA0544318E06B2F000C28A7 /* import.py */,
 				ADDA581F18D6C880003B1E10 /* test.py */,
 				ADDA582018D6D10B003B1E10 /* test04.py */,
 				ADA1B70718D6D943000E39E6 /* text05.py */,
+				ADA1B70818D6E457000E39E6 /* test06.py */,
+				ADA0543F18E06B2F000C28A7 /* test07.py */,
+				ADA0544018E06B2F000C28A7 /* test08.py */,
+				ADA0544118E06B2F000C28A7 /* test09.py */,
+				ADA01EFB18E92C9C00D95BB3 /* test10.py */,
+				ADA01EFC18E93DA700D95BB3 /* test11.py */,
+				ADA01EFD18E953DE00D95BB3 /* test12.py */,
 			);
 			sourceTree = "<group>";
 		};

@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+# [B반][게임공학과][2009182022][류웅국]
 my_name = 'Zed A. Shaw'
 my_age = 35 # not a lie
 my_height = 74 # inches

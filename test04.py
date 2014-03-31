@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+# [B반][게임공학과][2009182022][류웅국]
 cars = 100
 space_in_a_car = 4.0
 drivers = 30
