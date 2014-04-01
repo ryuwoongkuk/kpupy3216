@@ -14,6 +14,11 @@
 		ADA0544018E06B2F000C28A7 /* test08.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test08.py; sourceTree = "<group>"; };
 		ADA0544118E06B2F000C28A7 /* test09.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test09.py; sourceTree = "<group>"; };
 		ADA0544318E06B2F000C28A7 /* import.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = import.py; sourceTree = "<group>"; };
+		ADA0E47A18EABA54001C8F96 /* test13.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test13.py; sourceTree = "<group>"; };
+		ADA0E47B18EAC7DA001C8F96 /* test14.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test14.py; sourceTree = "<group>"; };
+		ADA0E47C18EACDCD001C8F96 /* test15.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test15.py; sourceTree = "<group>"; };
+		ADA0E47D18EAE0F3001C8F96 /* test16.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test16.py; sourceTree = "<group>"; };
+		ADA0E47E18EAE3FD001C8F96 /* test17.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test17.py; sourceTree = "<group>"; };
 		ADA1B70718D6D943000E39E6 /* text05.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = text05.py; sourceTree = "<group>"; };
 		ADA1B70818D6E457000E39E6 /* test06.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test06.py; sourceTree = "<group>"; };
 		ADDA581F18D6C880003B1E10 /* test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
@@ -35,6 +40,11 @@
 				ADA01EFB18E92C9C00D95BB3 /* test10.py */,
 				ADA01EFC18E93DA700D95BB3 /* test11.py */,
 				ADA01EFD18E953DE00D95BB3 /* test12.py */,
+				ADA0E47A18EABA54001C8F96 /* test13.py */,
+				ADA0E47B18EAC7DA001C8F96 /* test14.py */,
+				ADA0E47C18EACDCD001C8F96 /* test15.py */,
+				ADA0E47D18EAE0F3001C8F96 /* test16.py */,
+				ADA0E47E18EAE3FD001C8F96 /* test17.py */,
 			);
 			sourceTree = "<group>";
 		};

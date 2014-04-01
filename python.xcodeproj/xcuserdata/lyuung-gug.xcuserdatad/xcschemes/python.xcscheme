@@ -58,6 +58,10 @@
             isEnabled = "NO">
          </CommandLineArgument>
          <CommandLineArgument
+            argument = "test13.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
             argument = "text05.py"
             isEnabled = "NO">
          </CommandLineArgument>
@@ -79,6 +83,22 @@
          </CommandLineArgument>
          <CommandLineArgument
             argument = "test12.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "test14.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "test15.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "test16.py"
+            isEnabled = "NO">
+         </CommandLineArgument>
+         <CommandLineArgument
+            argument = "test17.py"
             isEnabled = "YES">
          </CommandLineArgument>
          <CommandLineArgument
