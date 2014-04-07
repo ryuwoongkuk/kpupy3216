@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
+		AD29D05218F2931B00455E00 /* test21.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test21.py; sourceTree = "<group>"; };
 		ADA01EFB18E92C9C00D95BB3 /* test10.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test10.py; sourceTree = "<group>"; };
 		ADA01EFC18E93DA700D95BB3 /* test11.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test11.py; sourceTree = "<group>"; };
 		ADA01EFD18E953DE00D95BB3 /* test12.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test12.py; sourceTree = "<group>"; };
@@ -21,6 +22,9 @@
 		ADA0E47E18EAE3FD001C8F96 /* test17.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test17.py; sourceTree = "<group>"; };
 		ADA1B70718D6D943000E39E6 /* text05.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = text05.py; sourceTree = "<group>"; };
 		ADA1B70818D6E457000E39E6 /* test06.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test06.py; sourceTree = "<group>"; };
+		ADBFAB0A18F26C8F00315DF3 /* test18.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test18.py; sourceTree = "<group>"; };
+		ADBFAB0B18F2814F00315DF3 /* test19.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test19.py; sourceTree = "<group>"; };
+		ADBFAB0C18F2884F00315DF3 /* test20.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test20.py; sourceTree = "<group>"; };
 		ADDA581F18D6C880003B1E10 /* test.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test.py; sourceTree = "<group>"; };
 		ADDA582018D6D10B003B1E10 /* test04.py */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.python; path = test04.py; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +45,10 @@
 				ADA01EFC18E93DA700D95BB3 /* test11.py */,
 				ADA01EFD18E953DE00D95BB3 /* test12.py */,
 				ADA0E47A18EABA54001C8F96 /* test13.py */,
+				ADBFAB0A18F26C8F00315DF3 /* test18.py */,
+				ADBFAB0C18F2884F00315DF3 /* test20.py */,
+				AD29D05218F2931B00455E00 /* test21.py */,
+				ADBFAB0B18F2814F00315DF3 /* test19.py */,
 				ADA0E47B18EAC7DA001C8F96 /* test14.py */,
 				ADA0E47C18EACDCD001C8F96 /* test15.py */,
 				ADA0E47D18EAE0F3001C8F96 /* test16.py */,
